@@ -6,7 +6,7 @@
 </div>
 
 <div align="center">
-![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=bwtakacy&show_icons=true&count_private=true&theme=tokyonight)
+  <img src="https://github-readme-stats.vercel.app/api?username=bwtakacy&show_icons=true&count_private=true&theme=tokyonight" />
 </div>
 
 <div align="center">
