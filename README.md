@@ -29,7 +29,7 @@
 <img src="https://skillicons.dev/icons?i=postgresql" />
 
 ### 💻  **Languages & Frameworks**
-<img src="https://skillicons.dev/icons?i=python,c" />
+<img src="https://skillicons.dev/icons?i=python,c,java" />
 
 </td>
 </tr>
